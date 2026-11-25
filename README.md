@@ -4,6 +4,15 @@
 
 It works with any website. You do not need WordPress.
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/01-score.jpg" width="23%" alt="Website score from 0 to 100 with Critical, Warning and Good results">
+  <img src="docs/screenshots/02-results.jpg" width="23%" alt="List of problems with a simple guide for each one">
+  <img src="docs/screenshots/03-details.jpg" width="23%" alt="Quick facts: server answer time, certificate, HTML size and protocol">
+  <img src="docs/screenshots/04-tools.jpg" width="23%" alt="Tools: source code audit, competitor watch, latest post analysis and log analyzer">
+</p>
+
 ## What the app does
 
 - **Website check:** one score, and three groups of results: Critical, Warning and Good. Four areas: Health, Security, SEO and Speed.
@@ -24,7 +33,7 @@ It works with any website. You do not need WordPress.
 
 ### How to install the APK
 
-1. Download `stinoment-growth-assistant-1.3.0.apk` from the Releases page on your phone.
+1. Download `app-bazaar-release.apk` (version 1.3.0) from the Releases page on your phone.
 2. Open the file. If Android asks, allow your browser or file app to install apps.
 3. Tap **Install**.
 
